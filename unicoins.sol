@@ -54,7 +54,7 @@ contract UNicoinsToken is SafeMath {
     mapping(address => mapping(address => uint256)) public allowance;
 
     constructor() public {
-        symbol = "UN->";
+        symbol = "UN30";
         name = "UNicoins";
         decimals = 2;
         _totalSupply = 100000;
