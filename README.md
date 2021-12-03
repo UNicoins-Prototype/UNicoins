@@ -22,6 +22,9 @@ You can **view the whitepaper on UNicoins [here](https://drive.google.com/file/d
 ### Calling all potential collaborators
 The UNicoins team is looking for individuals and institutions willing to help with the development of this project. If you have any ideas as to how we could potentially improve this project, please reach out!
 
+You can [view the UNicoins proposed app structure here](https://docs.google.com/spreadsheets/d/1cLsQp2KSmuRWnGgsj4bvzx4Zzxli4-ds/edit?usp=sharing&ouid=103741152089559543137&rtpof=true&sd=true). We are calling for contributors to any of these features. We would really appreciate your help!
+
+
 Follow us on [Twitter](https://twitter.com/unicoins_un). 
 
 
